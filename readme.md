@@ -10,23 +10,23 @@ The source code is private.
 
 ### 1. Hero Section
 
-![Hero Section](./screenshots/hero.png)
+![Hero Section](./screenshots/hero-section.png)
 
 ### 2. About Section
 
-![About Section](./screenshots/about.png)
+![About Section](./screenshots/about-section.png)
 
 ### 3. Experience & Education
 
-![Experience Section](./screenshots/experience.png)
+![Experience Section](./screenshots/experience-section.png)
 
 ### 4. Services
 
-![Services Section](./screenshots/services.png)
+![Services Section](./screenshots/services-section.png)
 
 ### 5. Contact Section
 
-![Contact Section](./screenshots/contact.png)
+![Contact Section](./screenshots/contact-section.png)
 
 ---
 
