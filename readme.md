@@ -33,7 +33,7 @@ The source code is private.
 ## 🌐 Live Demo
 
 You can view the portfolio live here:  
-[Visit Portfolio](https://your-vercel-url.vercel.app)
+[Visit Portfolio](https://ahabibi.vercel.app/)
 
 ---
 
@@ -47,3 +47,13 @@ You can view the portfolio live here:
 ---
 
 ## 📂 Repository Structure
+
+/screenshots # All portfolio screenshots
+README.md # This README file
+
+---
+
+## 📌 Notes
+
+- This is a **screenshots-only repository** for public viewing
+- Source code remains private to protect intellectual property
